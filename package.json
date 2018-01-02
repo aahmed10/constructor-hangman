@@ -1,0 +1,25 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aahmed10/constructor-hangman.git"
+  },
+  "author": "adeel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aahmed10/constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/aahmed10/constructor-hangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.2",
+    "random-word": "^2.0.0",
+    "random-words": "0.0.1",
+    "require": "^2.4.20"
+  }
+}
